@@ -74,10 +74,10 @@
           <ul class="nav nav-secondary">
             <li class="nav-item active">
               <a
+                href="/dashboard"
                 data-bs-toggle="collapse"
-                href="#dashboard"
                 class="collapsed"
-                aria-expanded="false"
+                aria-expanded="true"
               >
                 <i class="fas fa-home"></i>
                 <p>Dashboard</p>
@@ -98,7 +98,7 @@
               <div class="collapse" id="rooms">
                 <ul class="nav nav-collapse">
                   <li>
-                    <a href="">
+                    <a href="/room">
                       <span class="sub-item">Single Room</span>
                     </a>
                   </li>
